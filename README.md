@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 [![CircuitDigest](https://img.shields.io/badge/Tutorial-CircuitDigest-blue?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/iot-based-contactless-body-temperature-monitoring-using-raspberry-pi-with-camera-and-email-alert)
 
-A **Smart Contactless Temperature Monitoring System** using Raspberry Pi, MLX90614 IR sensor, and Pi Camera for automated body temperature screening with real-time email alerts and image capture. Essential for health monitoring, access control, and pandemic safety measures. [![https://circuitdigest.com/sites/default/files/projectimage_mic/Body-Temperature-Monitoring-using-Raspberry-Pi.jpg)
+A **Smart Contactless Temperature Monitoring System** using Raspberry Pi, MLX90614 IR sensor, and Pi Camera for automated body temperature screening with real-time email alerts and image capture. Essential for health monitoring, access control, and pandemic safety measures. !(https://circuitdigest.com/sites/default/files/projectimage_mic/Body-Temperature-Monitoring-using-Raspberry-Pi.jpg)
 
 🚀 Features
 -----------
